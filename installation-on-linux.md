@@ -21,7 +21,7 @@ $ yarn global add @dhis2/cli
 # To verify d2 is installed
 $ d2 --help
 ```
-## NOTE: If the &nbsp;<strong>d2: command not found</strong>&nbsp; then run the below commands:
+## NOTE: If the &nbsp;<strong>"d2: command not found"</strong>&nbsp; then run the below commands:
 ```bash
 # Check path to yarn packages
 $ yarn global bin
