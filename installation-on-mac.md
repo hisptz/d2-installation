@@ -8,7 +8,6 @@ $ yarn global add @dhis2/cli-app-scripts
 $ d2 --help
 
 # Add yarn installed packages to path
-# Example: export PATH=$PATH:/home/dhis/.yarn/bin 
 $ export PATH=$PATH:<path_to_yarn_packages>
 
 ```
